@@ -1,0 +1,13 @@
+# Core numerical and data wrangling
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Probabilistic modeling
+pymc
+arviz
+
