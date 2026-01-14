@@ -40,7 +40,6 @@ tennis_prob/
 ├── results/                              # Model outputs and visualizations
 │   ├── summary_hierarchical.csv          # Hierarchical model summary statistics
 │   ├── player_effects_hierarchical.csv   # Player-specific effect estimates
-│   ├── model_comparison_loo.csv          # LOO-CV model comparison
 │   └── *.png                             # Visualization outputs
 │
 ├── requirements.txt
